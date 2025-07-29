@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Page3";
+
+    string controller =
+        ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+    string action =
+        ViewContext.RouteData.Values["action"]?.ToString() ?? "";
+}
+
+
+<div class="card">
+    <iframe height="500" class="card-img-top" src="https://www.youtube.com/embed/Fbf_ua2t6v4?si=Lz3opwqevTOCip3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="card-body">
+        <h5 class="card-title">CRUD Operations</h5>
+        <p class="card-text">Here will be some text about CRUD operations</p>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">An item</li>
+        <li class="list-group-item">A second item</li>
+        <li class="list-group-item">A third item</li>
+    </ul>
+    <div class="card-body">
+        <a class="btn btn-primary @(controller == "Tutorial" && action == "Page2" ? "active" : "")" type="button" aria-selected="false" asp-area="Help" asp-controller="Tutorial" asp-action="Page2">Previous</a>
+    </div>
+</div>
+

@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Page1";
+
+    string controller =
+        ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+    string action =
+        ViewContext.RouteData.Values["action"]?.ToString() ?? "";
+}
+
+
+<div class="card">
+    <img src="~/images/mvc(chase).png" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">What is MVC architechture?</h5>
+        <p class="card-text">The MVC architechture allows for creation of dynamic one-page applications. The structure allows for clean file structures that separate the concerns of each area of the application. This also helps makes testing the application significantly easier. </p>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">The M stands for "Model" or "Model Layer". This layer of the architechture is reponsible for handling data and business logic and represents the state of the application.</li>
+        <li class="list-group-item">The V stands for "View" or "View Layer". This layer is responsible for displaying the data and content through a user interface. In ASP.NET Core MVC, this is generally done with Razor pages.</li>
+        <li class="list-group-item">The C stands for "Controller" or "Controller Layer". This layer is responsible for making and handling all the connections between the user, model, and views. This includes handling user input and routing. </li>
+    </ul>
+    <div class="card-body">
+        <a class="btn btn-primary @(controller == "Tutorial" && action == "Page2" ? "active" : "")" type="button" aria-selected="false" asp-area="Help" asp-controller="Tutorial" asp-action="Page2">Next</a>
+    </div>
+</div>
+

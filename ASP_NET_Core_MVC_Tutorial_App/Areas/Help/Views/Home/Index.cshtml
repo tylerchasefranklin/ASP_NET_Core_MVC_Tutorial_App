@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Help";
+ 
+    string controller =
+        ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+    string action =
+        ViewContext.RouteData.Values["action"]?.ToString() ?? "";
+
+}
+
+<div class="card container-fluid pt-3" style="border-top: none;">
+    <h2 class="text-center">Welcome to the Help Area!</h2>
+    <div class="row m-auto">
+        <p>This is where information on the help home page will go</p>
+        <p>For now, click on the Tutorial tab to view the tutorial pages</p>
+    </div>
+</div>

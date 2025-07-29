@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Page2";
+
+    string controller =
+        ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+    string action =
+        ViewContext.RouteData.Values["action"]?.ToString() ?? "";
+}
+
+
+<div class="card">
+    <iframe height="500" class="card-img-top" src="https://www.youtube.com/embed/E7Voso411Vs?si=gT9u_34qTsJeYBA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="card-body">
+        <h5 class="card-title">Setting up a basic ASP.NET Core MVC project</h5>
+        <p class="card-text">Visual Studio makes setting up a basic ASP.NET Core MVC application fairly easy. With a few simple steps, you can set up an entirely organized file structure with separation of concerns.</p>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Open Visual Studio and click "Create a new project". On the next screen you can search for and select the ASP.NET Core Web App (Model-View-Controller) template. </li>
+        <li class="list-group-item">Using this template will create a file structure that includes all the essentials to start an MVC application. This includes your folders for your models, views, and controllers. It also includes basic code for namespaces and index routes.</li>
+        <li class="list-group-item">After selecting the template, the next screen will ask you to name the project, followed by selecting the Framework. In most cases, the default option is suggested. Next, click "Create" and voil<span>&#224;</span>! You are ready to add the rest of your files and start coding your project!</li>
+    </ul>
+    <div class="card-body">
+        <a class="btn btn-primary @(controller == "Tutorial" && action == "Page1" ? "active" : "")" type="button" aria-selected="false" asp-area="Help" asp-controller="Tutorial" asp-action="Page1">Previous</a>
+        <a class="btn btn-primary @(controller == "Tutorial" && action == "Page3" ? "active" : "")" type="button" aria-selected="false" asp-area="Help" asp-controller="Tutorial" asp-action="Page3">Next</a>
+    </div>
+</div>
+
