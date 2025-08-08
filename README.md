@@ -1,5 +1,7 @@
 # ASP.NET Core MVC Tutorial App
 
+[![View Live Demo](https://img.shields.io/badge/LIVE%20DEMO-blue?style=for-the-badge&logo=windows)](https://chasefranklinaspcoremvctutorial.azurewebsites.net/)
+
 ## Overview
 A learning project that demonstrates building, validating, and deploying an ASP.NET Core MVC web application using full CRUD functionality and Razor view templates. Deployed via Microsoft Azure App Service.
 
