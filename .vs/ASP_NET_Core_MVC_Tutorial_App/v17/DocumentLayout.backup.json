@@ -54,7 +54,8 @@
               "RelativeToolTip": "ASP_NET_Core_MVC_Tutorial_App\\Areas\\Help\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T21:40:00.965Z"
+              "WhenOpened": "2025-07-29T21:40:00.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,7 +65,7 @@
               "RelativeDocumentMoniker": "ASP_NET_Core_MVC_Tutorial_App\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\tyler\\OneDrive\\Documents\\ASP_NET_Core_MVC_Tutorial_App\\ASP_NET_Core_MVC_Tutorial_App\\ASP_NET_Core_MVC_Tutorial_App\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ASP_NET_Core_MVC_Tutorial_App\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwDIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowDIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T21:39:44.595Z",
               "EditorCaption": ""
@@ -79,7 +80,8 @@
               "RelativeToolTip": "ASP_NET_Core_MVC_Tutorial_App\\Areas\\Help\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T21:29:00.706Z"
+              "WhenOpened": "2025-07-29T21:29:00.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,7 +91,6 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\Views\\Home\\Contact.cshtml",
               "ToolTip": "C:\\Users\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T21:28:42.03Z"
             },
@@ -103,7 +104,8 @@
               "RelativeToolTip": "ASP_NET_Core_MVC_Tutorial_App\\Areas\\Help\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T21:35:47.836Z"
+              "WhenOpened": "2025-07-29T21:35:47.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +117,8 @@
               "RelativeToolTip": "ASP_NET_Core_MVC_Tutorial_App\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T21:35:54.465Z"
+              "WhenOpened": "2025-07-29T21:35:54.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -125,7 +128,6 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
               "ToolTip": "C:\\Users\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T21:28:42.317Z"
             },
@@ -148,7 +150,6 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\ScaffoldingReadMe.txt",
               "ToolTip": "C:\\Users\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Chase\\Documents\\WEB-180\\tyler_franklin_finalproject\\tyler_franklin_finalproject\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-07-29T21:28:42.321Z"
             }
