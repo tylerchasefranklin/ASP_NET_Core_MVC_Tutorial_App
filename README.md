@@ -9,7 +9,7 @@ A learning project that demonstrates building, validating, and deploying an ASP.
 [https://chasefranklinaspcoremvctutorial.azurewebsites.net](https://chasefranklinaspcoremvctutorial.azurewebsites.net)
 
 ## Technologies Used
-- ASP.NET Core MVC (.NET 6+)
+- ASP.NET Core MVC (.NET 9+)
 - C# / Razor Pages
 - Entity Framework Core
 - Bootstrap 4/5 for styling
@@ -24,6 +24,12 @@ A learning project that demonstrates building, validating, and deploying an ASP.
 - Responsive layout using **Bootstrap**
 - Deployment pipeline to **Azure App Service**
 
+## Prerequisites
+
+- [.NET 9.0 SDK or later](https://dotnet.microsoft.com/download)
+- Visual Studio 2022 (or [Visual Studio Code](https://code.visualstudio.com/))
+- (Optional) Azure account for deployment
+
 ## Getting Started
 
 To run the project locally:
@@ -37,6 +43,11 @@ dotnet run
 
 Then go to https://localhost:5001 in your browser.
 
+## Configuration
+
+- Local settings are in `appsettings.json`.
+- For secrets (e.g., connection strings), use [User Secrets](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets) or environment variables as needed.
+
 ## Screenshots
 
 ### Home / Index Page
@@ -48,9 +59,17 @@ Then go to https://localhost:5001 in your browser.
 ### Detail View
 ![Form Confirmation](images/screenshot-form_confirmation.png)
 
+## Testing
+
+Testing will be added in the future. (Stay tuned!)
+
 ## Contributing
 
 Pull requests are welcome! Feel free to open an issue or submit a PR for improvements or bug fixes.
+
+## Issues & Support
+
+To report bugs, request features, or get support, please use the [GitHub Issues](https://github.com/tylerchasefranklin/ASP_NET_Core_MVC_Tutorial_App/issues) page.
 
 ## License
 
