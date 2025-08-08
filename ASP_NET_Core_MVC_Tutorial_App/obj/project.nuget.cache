@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pwaUJT3xAe8=",
+  "dgSpecHash": "POVdb5lnsUQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\tyler\\OneDrive\\Documents\\ASP_NET_Core_MVC_Tutorial_App\\ASP_NET_Core_MVC_Tutorial_App\\ASP_NET_Core_MVC_Tutorial_App\\ASP_NET_Core_MVC_Tutorial_App.csproj",
   "expectedPackageFiles": [
@@ -105,15 +105,15 @@
     "C:\\Users\\tyler\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.formats.asn1\\9.0.0-rc.2.24473.5\\system.formats.asn1.9.0.0-rc.2.24473.5.nupkg.sha512",
-    "C:\\Users\\tyler\\.nuget\\packages\\system.io.pipelines\\9.0.0-rc.2.24473.5\\system.io.pipelines.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.reflection.metadataloadcontext\\8.0.0\\system.reflection.metadataloadcontext.8.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.4\\system.security.cryptography.pkcs.6.0.4.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\tyler\\.nuget\\packages\\system.text.encodings.web\\9.0.0-rc.2.24473.5\\system.text.encodings.web.9.0.0-rc.2.24473.5.nupkg.sha512",
-    "C:\\Users\\tyler\\.nuget\\packages\\system.text.json\\9.0.0-rc.2.24473.5\\system.text.json.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\tyler\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
   ],
