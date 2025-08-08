@@ -1,0 +1,25 @@
+version: 2
+updates:
+  # Enable version updates for NuGet (.NET dependencies)
+  - package-ecosystem: "nuget"
+    directory: "/" # Location of your .csproj or solution file
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    commit-message:
+      prefix: "deps"
+    ignore:
+      # Example: Ignore major version updates (optional)
+      # - dependency-name: "*"
+      #   update-types: ["version-update:semver-major"]
+
+  # Enable GitHub Actions workflow updates
+  - package-ecosystem: "github-actions"
+    directory: "/" # Location of workflow files
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "ci"
+
+# Optionally, you can add more ecosystems (npm, docker, etc.) if your project uses them.
