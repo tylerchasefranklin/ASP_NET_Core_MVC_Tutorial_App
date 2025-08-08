@@ -12,6 +12,7 @@ A learning project that demonstrates building, validating, and deploying an ASP.
 - Entity Framework Core
 - Bootstrap 4/5 for styling
 - Microsoft Azure App Service (deployment)
+- SCSS, JavaScript, HTML, CSS
 
 ## Features
 - Full **CRUD functionality** for managing items
@@ -20,6 +21,19 @@ A learning project that demonstrates building, validating, and deploying an ASP.
 - **Model binding** and routing via controllers
 - Responsive layout using **Bootstrap**
 - Deployment pipeline to **Azure App Service**
+
+## Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/tylerchasefranklin/ASP_NET_Core_MVC_Tutorial_App.git
+cd ASP_NET_Core_MVC_Tutorial_App
+dotnet restore
+dotnet run
+```
+
+Then go to https://localhost:5001 in your browser.
 
 ## Screenshots
 
@@ -32,13 +46,14 @@ A learning project that demonstrates building, validating, and deploying an ASP.
 ### Detail View
 ![Form Confirmation](images/screenshot-form_confirmation.png)
 
-## Getting Started
+## Contributing
 
-To run the project locally:
+Pull requests are welcome! Feel free to open an issue or submit a PR for improvements or bug fixes.
 
-```bash
-git clone https://github.com/yourusername/aspnetcore-mvc-tutorial.git
-cd aspnetcore-mvc-tutorial
-dotnet restore
-dotnet run
-Then go to https://localhost:5001 in your browser.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+For more information, visit the [project repository](https://github.com/tylerchasefranklin/ASP_NET_Core_MVC_Tutorial_App).
